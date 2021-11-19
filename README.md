@@ -8,5 +8,6 @@
 </a>
 <a href="mailto:pratikramteke222@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pratikramteke.pratikramteke)
 
