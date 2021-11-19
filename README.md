@@ -9,5 +9,5 @@
 <a href="mailto:pratikramteke222@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br />
-  ![Visitor Count](https://profile-counter.glitch.me/pratikramteke/count.svg)
 
+[![Visits Badge](https://badges.pufler.dev/visits/pratikramtke/pratikramteke)]
