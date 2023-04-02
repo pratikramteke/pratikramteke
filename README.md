@@ -9,6 +9,9 @@
 <a href="mailto:pratikramteke222@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
+<a href="https://pratikramteke.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
 <br>
 
 ## 🎓 About me
